@@ -18,7 +18,7 @@ for(let i = 0; i < 8; i++){
         xp = "Bronze"
     }else if(heroisXp[i][1] >= 2001 && heroisXp[i][1] <= 5000 ){
         xp = "Prata"
-    }else if(heroisXp[i][1] >= 6001 && heroisXp[i][1] <= 7000 ){
+    }else if(heroisXp[i][1] >= 5001 && heroisXp[i][1] <= 7000 ){
         xp = "Ouro"
     } else if(heroisXp[i][1] >= 7001 && heroisXp[i][1] <= 8000 ){
         xp = "Platina"
